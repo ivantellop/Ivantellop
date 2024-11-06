@@ -15,12 +15,6 @@ Hello, my name is César Iván, and I am passionate about programming and biotec
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ivantellop&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ivantellop&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ivantellop&icon=0&color=1)](https://visitcount.itsvg.in)
 
